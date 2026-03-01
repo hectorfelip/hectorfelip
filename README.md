@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="left">Opa, 👋 tudo bom?!</h1>
 
-<!--
-**hectorfelip/hectorfelip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">👦Me chamo Hector sou de Goiânia Goiás. <br>🌐Cursando Eng. de Software pelo SENAI.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">🌿Sobre mim:</h2>
+
+###
+
+<br clear="both">
+
+<p align="left">📖 Atualmente aprendendo:<br>• Programação em Java, Lógica de programação, Arquitetura de Software.<br><br>🔎Estou procurando por:<br>• Formas de me aprimorar tanto na programação quanto no meu desenvolvimento como dev.</p>
+
+###
+
+<h2 align="left">Programo em:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
