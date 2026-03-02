@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">📖 Atualmente aprendendo:<br>• Programação em Java, Lógica de programação, Arquitetura de Software.<br><br>🔎Estou procurando por:<br>• Formas de me aprimorar tanto na programação quanto no meu desenvolvimento como dev.</p>
+<p align="left">🤖Interesses:<br>• Tenho interesse por programação e IA<br><br>📖 Atualmente aprendendo:<br>• Programação em Java, Lógica de programação, Arquitetura de Software.<br><br>🔎Estou procurando por:<br>• Formas de me aprimorar tanto na programação quanto no meu desenvolvimento como dev.</p>
 
 ###
 
